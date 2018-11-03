@@ -1,0 +1,14 @@
+{ "login": [ {
+"email": "sherrynovanka@gmail.com",
+"password": "password123", 
+"type": "landlord", 
+"address": [{"a": {"120": ["Junghyun", "Justin"]}, 
+			"b": ["Sherry"], 
+			"c": ["Sabrina"]}]
+},
+{"email": "sherrytania@berkeley.edu",
+"password": "password456", 
+"type": "tenant", 
+"address": "d"
+}
+]}
